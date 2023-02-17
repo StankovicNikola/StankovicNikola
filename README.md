@@ -1,121 +1,56 @@
-## Hi there Earthlings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-🧑 My name is Nikola Stanković and I'm a QA Engineer. Currently working at worX4you.
+<h1 align="center"> Hi there Earthlings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p> 🧑 My name is Nikola Stanković and I'm a QA Engineer. Currently working at worX4you. </p> 
+<p> 🧐 I’m interested in Software Quality, Automation Testing and the Shift Left testing approach. </p> 
+<p> 💼 I have worked on various projects such as: VPN, Password Manager, E-commerce: Wholesale B2B Marketplace, E-commerce: Health and Wellness Marketplace, Fitness, Financial Services. </p> 
+<p> 📫 You can find me on&nbsp; 
+  <a href="https://www.linkedin.com/in/nikola-stankovic/"> 
+    <img alt="Nikola's LinkedIn" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  </a>. 
+</p> 
 <br>
-🧐 I’m interested in Software Quality, Automation Testing and the Shift Left testing approach.
-<br>
-📖 I’m currently learning API and Performance testing.
-<br>
-💼 I have worked on various projects such as VPN, Password Manager, E-commerce: Wholesale B2B Marketplace, E-commerce: Health and Wellness Marketplace, Fitness, Financial Services.
-<br>
-📫 You can find me on&nbsp;<a href="https://www.linkedin.com/in/nikola-stankovic/"> 
-<img alt="Nikola's LinkedIn" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/> 
-</a>.
 
-## 🔧 Some of the technologies & tools I work with:
-<details><summary>Languages:</summary>
+<h2 align="center">  🔧 Some of the technologies & tools I work with: </h2>
 <p>
-<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
-<img alt="HTML5 logo" width="45px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
-<img alt="CSS3 logo" width="45px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://www.javascript.com/"> 
-<img alt="JS logo" width="45px" src="https://user-images.githubusercontent.com/37605306/208430510-14d922a4-d210-4ae7-b23a-a874f4c161f9.png"/> 
-</a>
-&nbsp;
+  <div align="center">
+    <img src="https://img.shields.io/badge/HTML5-273347.svg?style=for-the-badge&logo=html5&logoColor=E34F26">
+    <img src="https://img.shields.io/badge/CSS-273347.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6">
+    <img src="https://img.shields.io/badge/-javascript-273347?logo=javascript&style=for-the-badge&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/mocha.js-273347?style=for-the-badge&logo=mocha&logoColor=8D6748">
+    <img src="https://img.shields.io/badge/chai.js-273347?style=for-the-badge&logo=chai&logoColor=A30701">
+    <img src="https://img.shields.io/badge/-cypress-273347?style=for-the-badge&logo=cypress&logoColor=17202C">
+    <img src="https://img.shields.io/badge/testcafe-273347?style=for-the-badge&logo=testcafe&logoColor=36B6E5">
+    <img src="https://img.shields.io/badge/GitHub-273347?style=for-the-badge&logo=github&logoColor=181717">
+    <img src="https://img.shields.io/badge/git-273347?style=for-the-badge&logo=git&logoColor=F05032">
+  </div>
 </p>
-</details>
 
-<details><summary>Test automation tools/frameworks:</summary>
 <p>
-<br>
-<a href="https://www.testcafe.io/"> 
-<img alt="TestCafe logo" width="45px" src="https://seeklogo.com/images/T/testcafe-logo-6161D2C53D-seeklogo.com.png"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://www.cypress.io/"> 
-<img alt="TestCafe logo" width="45px" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://mochajs.org/"> 
-<img alt="Mocha logo" width="45px" src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://www.chaijs.com/"> 
-<img alt="Chai logo" width="45px" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4"/> 
-</a>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Jira-273347?style=for-the-badge&logo=Jira-software&logoColor=0052CC">
+    <img src="https://img.shields.io/badge/Zenhub-273347?style=for-the-badge&logo=zenhub-software&logoColor=0052CC">
+    <img src="https://img.shields.io/badge/Trello-273347?style=for-the-badge&logo=trello&logoColor=0052CC">
+    <img src="https://img.shields.io/badge/-Asana-273347?logo=asana&style=for-the-badge&logoColor=F06A6A">
+    <img src="https://img.shields.io/badge/Slack-273347?style=for-the-badge&logo=slack&logoColor=4A154B">
+    <img src="https://img.shields.io/badge/-notion-273347?logo=notion&style=for-the-badge">
+    <img src="https://img.shields.io/badge/-testpad-273347?logo=testpad&style=for-the-badge">
+  </div>
 </p>
-</details>
-
-<details><summary>Project management/issue tracking tools:</summary>
+  
 <p>
-<br>
-<a href="https://www.atlassian.com/software/jira"> 
-<img alt="JIRA logo" width="45px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://www.zenhub.com/"> 
-<img alt="JIRA logo" width="45px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4cd600bd5bf97c6a3abaa39a949c03ab/zenhub.png"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://trello.com/"> 
-<img alt="Trello logo" width="45px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://asana.com/"> 
-<img alt="Asana logo" width="45px" src="https://cdn.worldvectorlogo.com/logos/asana-logo.svg"/> 
-</a>
+  <div align="center">
+    <img src="https://img.shields.io/badge/mac%20os-273347?style=for-the-badge&logo=apple&logoColor=000000">
+      <img src="https://img.shields.io/badge/Windows-273347?style=for-the-badge&logo=windows&logoColor=0078D6">
+    <img src="https://img.shields.io/badge/iOS-273347?style=for-the-badge&logo=ios&logoColor=000000">
+    <img src="https://img.shields.io/badge/Android-273347?style=for-the-badge&logo=android&logoColor=3DDC84">
+  </div>
 </p>
-</details>
+<br>
 
-<details><summary>Test case management:</summary>
+<h2 align="center">  📚 Currently learning: </h2>
 <p>
-<br>
-<a href="https://testpad.com/"> 
-<img alt="JIRA logo" width="45px" src="https://pbs.twimg.com/profile_images/998525908305653760/5Yli5ly7_400x400.jpg"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira"> 
-<img alt="Zephyr Scale logo" width="45px" src="https://marketplace-cdn.atlassian.com/files/7842850b-2144-4e63-a948-274d9e5accc1?fileType=image&mode=full-fit"/> 
-</a>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Postman-273347?style=for-the-badge&logo=Postman&logoColor=FF6C37">
+    <img src="https://img.shields.io/badge/jmeter-273347?style=for-the-badge&logo=apache-jmeter&logoColor=D22128">
+    <img src="https://img.shields.io/badge/blazemeter-273347?style=for-the-badge&logo=blazemeter&logoColor=CA2133">
+  </div>
 </p>
-</details>
-
-<details><summary>Project documentation/knowledge management:</summary>
-<p>
-<br>
-<a href="https://www.notion.so/"> 
-<img alt="Notion logo" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/> 
-</a>
-&nbsp;&nbsp;
-<a href="https://www.getguru.com/"> 
-<img alt="Guru logo" width="45px" src="https://d3h0owdjgzys62.cloudfront.net/images/40761/live_cover_art/thumb2x/Guru.png"/> 
-</a>
-</p>
-</details>
-
-
-
-<!--
-**StankovicNikola/StankovicNikola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/nikola-stankovic/).
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stankovicnikola&theme=nightowl&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
