@@ -12,13 +12,15 @@
 <h2 align="center">  🔧 Some of the technologies & tools I work with: </h2>
 <p>
   <div align="center">
-    <img src="https://img.shields.io/badge/HTML-273347.svg?style=for-the-badge&logo=html5&logoColor=E34F26">
-    <img src="https://img.shields.io/badge/CSS-273347.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6">
+    <img src="https://img.shields.io/badge/HTML5-273347.svg?style=for-the-badge&logo=html5&logoColor=E34F26">
+    <img src="https://img.shields.io/badge/CSS3-273347.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6">
     <img src="https://img.shields.io/badge/-javascript-273347?logo=javascript&style=for-the-badge&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/mocha-273347?style=for-the-badge&logo=mocha&logoColor=8D6748">
-    <img src="https://img.shields.io/badge/chai-273347?style=for-the-badge&logo=chai&logoColor=A30701">
+    <img src="https://img.shields.io/badge/mocha.js-273347?style=for-the-badge&logo=mocha&logoColor=8D6748">
+    <img src="https://img.shields.io/badge/chai.js-273347?style=for-the-badge&logo=chai&logoColor=A30701">
     <img src="https://img.shields.io/badge/-cypress-273347?style=for-the-badge&logo=cypress&logoColor=17202C">
     <img src="https://img.shields.io/badge/testcafe-273347?style=for-the-badge&logo=testcafe&logoColor=36B6E5">
+    </div>
+    <div align="center">
     <img src="https://img.shields.io/badge/GitHub-273347?style=for-the-badge&logo=github&logoColor=181717">
     <img src="https://img.shields.io/badge/git-273347?style=for-the-badge&logo=git&logoColor=F05032">
   </div>
