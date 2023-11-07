@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there Earthlings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p> 🧑 My name is Nikola Stanković and I'm a QA Engineer. Currently working at worX4you. </p> 
+<p> 🧑 My name is Nikola Stanković and I'm a QA Engineer. Currently working at Zendesk. </p> 
 <p> 🧐 I’m interested in Software Quality, Automation Testing and the Shift Left testing approach. </p> 
-<p> 💼 I have worked on various projects such as: <a href="https://www.linkedin.com/company/tunnelbear/"> TunnelBear (VPN) </a>, <a href="https://www.remembear.com"> RememBear (Password Manager) </a>, <a href="https://www.linkedin.com/company/hubba/"> Hubba (E-commerce: Wholesale B2B Marketplace) </a>, <a href="https://www.linkedin.com/company/league-inc-/"> League (E-commerce: Health and Wellness Marketplace) </a>, <a href="https://www.linkedin.com/company/the-body-coach/"> The Body Coach (Fitness) </a>, <a href="https://www.linkedin.com/company/beyond-finance/"> Beyond Finance (Financial Services).</a> </p> 
+<p> 💼 I have worked on various projects such as: <a href="https://www.linkedin.com/company/tunnelbear/"> TunnelBear (VPN) </a>, <a href="https://www.remembear.com"> RememBear (Password Manager) </a>, <a href="https://www.linkedin.com/company/hubba/"> Hubba (E-commerce: Wholesale B2B Marketplace) </a>, <a href="https://www.linkedin.com/company/league-inc-/"> League (E-commerce: Health and Wellness Marketplace) </a>, <a href="https://www.linkedin.com/company/the-body-coach/"> The Body Coach (Fitness) </a>, <a href="https://www.linkedin.com/company/beyond-finance/"> Beyond Finance (Financial Services) </a>.</p> 
 <p> 📫 You can find me on&nbsp; 
   <a href="https://www.linkedin.com/in/nikola-stankovic/">
     <img alt="Nikola's LinkedIn" width="15px" src="https://cdn.simpleicons.org/linkedin"/> 
